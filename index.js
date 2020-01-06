@@ -6,6 +6,14 @@ class Tree{
     }
 
     static definition(){
-        
+
     }
+}
+
+class Deciduous extends Tree{
+
+}
+
+class Evergreen extends Tree{
+    
 }
